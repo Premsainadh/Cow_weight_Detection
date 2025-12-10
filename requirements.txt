@@ -1,0 +1,7 @@
+Flask
+requests
+Pillow
+numpy
+joblib
+python-dotenv
+gunicorn
